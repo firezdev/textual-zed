@@ -1,4 +1,5 @@
 # textual-zed
+[![AI-DECLARATION: hint](https://img.shields.io/badge/䷼%20AI--DECLARATION-hint-ecfccb?labelColor=ecfccb)](https://ai-declaration.md)
 
 [Textual](textual.textualize.io) CSS extension for syntax highlighting for Zed.
 
